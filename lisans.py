@@ -6,7 +6,7 @@ colorama.init()
 print(Fore.RED)
 print("==================================")
 print(Fore.WHITE)
-print("Lisans başarıyla oluşturuldu.")
+print("Succesfully created custom license.")
 print(Fore.WHITE)
 
 def LisansOlusturucu():
